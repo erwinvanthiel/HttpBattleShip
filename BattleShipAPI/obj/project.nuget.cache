@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "373kAFiPwyDSj/Sv6UdAWH3BTYWIjTVBzHU24NKBq5cPmmcLFmwKwdpQX1shkNf9xt2wgnVfOy5rLvIIxfSfvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evanthiel\\source\\repos\\BattleShipAPI\\BattleShipAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evanthiel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
